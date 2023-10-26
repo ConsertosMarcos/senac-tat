@@ -1,3 +1,5 @@
+PARTE O MARCOS:
+
 Aula Linux 02                25/10/2023
 
 Terminal: Bash/Shell
@@ -20,3 +22,66 @@ Comandos de manipulação de diretorio:
 - ! e o numero do comando que foi usado no histórico 
 - mkdir = Criar algum diretório 
 - mkdir -v = mostra que foi criado o diretório
+
+COMANDOS USADOS NA AULA DE HOJE:
+
+ 1  ping www.google.com
+    2  clear
+    3  sudo su 
+    4  lubo sc
+    5  sudo su
+    6  atp update
+    7  ]update
+    8  update
+    9  apt update
+   10  sudo su
+   11  dir
+   12  cd Área\ de\ Trabalho/
+   13  dir
+   14  chmod -x kdenlive-23.08.2-x86_64.AppImage 
+   15  ./kdenlive-23.08.02-x86.64.AppImage
+   16  dir
+   17  cd ..
+   18  dir
+   19  cd Downloads/
+   20  dir
+   21  ls
+   22  update
+   23  CLEAR
+   24  celar
+   25  sudo celar
+   26  sudo su
+   27  dir
+   28  cd Downloads/
+   29  dir
+   30  chmod -x kdenlive-23.08.2-x86_64.AppImage 
+   31  clear
+   32  cd Downloads/
+   33  ls
+   34  sudo su 
+   35  sudo su
+   36  apt install visualstudiocode
+   37  apt install VisualStudioCode
+   38  apt install wget gpg wgwt -q0- ttps//packages.microsoft.com/keys/microsoft.gpgh
+   39  apt install wget gpg wgwt -q0- ttps//packages.microsoft.com/keys/microsoft.gpg
+   40  clear
+   41  sudo su
+   42  id 
+   43  sudo -i
+   44  sudo su
+   45  LS
+   46  ls
+   47  ls -lh
+   48  ls -a
+   49  ls -lha
+   50  cd
+   51  cd +
+   52  cd =
+   53  cd
+   54  cd/
+   55  cd /
+   56  ls -lha
+   57  cd
+   58  ls -lha
+   59  exit
+   60  history 
