@@ -1,0 +1,22 @@
+Aula Linux 02                25/10/2023
+
+Terminal: Bash/Shell
+
+temos diferenças de usuarios no terminal, temo o usuario comum(que pode ser trasformado em um usuario SUPER), usuario super(usuario que tem permissao para fazer todo tipo de moidificação, e te como ele voltar para um usuario comum) e usuario sem permissoes nenhuma(Como ja esta escrio este usuario nao pode fazer nenhuma modificaçao sem pedir um usuario e senha ou as vezes dependendo da configuraçao deste usuario nao tem permissão de fazer nada).
+
+============================================================================
+
+Comandos de manipulação de diretorio:
+- ls comando de ver os arquivos
+- ls -lh = ver os arquivos mas detalhadamente 
+- ls -a = ver os arquivos ocultos  
+- ls -lha = Junção dos doi comandos anteriores
+- cd = mudar de diretórios 
+- pwd = qual dirtorio EU(Você) estou. 
+- cd - = Sair para o diretorio anterior que estava antes (SÓ PODE VOLTAR UMA VEZ)
+- cd ~ = Voltar para o diretorio pessoal.
+- cd ..
+- history
+- ! e o numero do comando que foi usado no histórico 
+- mkdir = Criar algum diretório 
+- mkdir -v = mostra que foi criado o diretório
